@@ -1,0 +1,9 @@
+C:\Users\Kochen Family\source\repos\AR Code Builder\AR Code Builder\obj\Debug\ARCodeBuilder.Form1.resources
+C:\Users\Kochen Family\source\repos\AR Code Builder\AR Code Builder\obj\Debug\ARCodeBuilder.Form2.resources
+C:\Users\Kochen Family\source\repos\AR Code Builder\AR Code Builder\obj\Debug\ARCodeBuilder.Resources.resources
+C:\Users\Kochen Family\source\repos\AR Code Builder\AR Code Builder\obj\Debug\ARCodeBuilder.vbproj.GenerateResource.cache
+C:\Users\Kochen Family\source\repos\AR Code Builder\AR Code Builder\obj\Debug\ARCodeBuilder.vbproj.CoreCompileInputs.cache
+C:\Users\Kochen Family\source\repos\AR Code Builder\AR Code Builder\obj\Debug\ARCodeBuilder.exe
+C:\Users\Kochen Family\source\repos\AR Code Builder\AR Code Builder\obj\Debug\ARCodeBuilder.xml
+C:\Users\Kochen Family\source\repos\AR Code Builder\AR Code Builder\obj\Debug\ARCodeBuilder.pdb
+C:\Users\Kochen Family\source\repos\AR Code Builder\AR Code Builder\obj\Debug\ARCodeBuilder.vbprojResolveAssemblyReference.cache
