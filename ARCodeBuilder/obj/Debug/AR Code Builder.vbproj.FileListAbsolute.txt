@@ -1,0 +1,13 @@
+C:\Users\Kochen Family\source\repos\AR Code Builder\AR Code Builder\bin\Debug\AR Code Builder.exe.config
+C:\Users\Kochen Family\source\repos\AR Code Builder\AR Code Builder\bin\Debug\AR Code Builder.exe
+C:\Users\Kochen Family\source\repos\AR Code Builder\AR Code Builder\bin\Debug\AR Code Builder.pdb
+C:\Users\Kochen Family\source\repos\AR Code Builder\AR Code Builder\bin\Debug\AR Code Builder.xml
+C:\Users\Kochen Family\source\repos\AR Code Builder\AR Code Builder\obj\Debug\AR Code Builder.vbprojResolveAssemblyReference.cache
+C:\Users\Kochen Family\source\repos\AR Code Builder\AR Code Builder\obj\Debug\AR_Code_Builder.Form1.resources
+C:\Users\Kochen Family\source\repos\AR Code Builder\AR Code Builder\obj\Debug\AR_Code_Builder.Resources.resources
+C:\Users\Kochen Family\source\repos\AR Code Builder\AR Code Builder\obj\Debug\AR Code Builder.vbproj.GenerateResource.cache
+C:\Users\Kochen Family\source\repos\AR Code Builder\AR Code Builder\obj\Debug\AR Code Builder.vbproj.CoreCompileInputs.cache
+C:\Users\Kochen Family\source\repos\AR Code Builder\AR Code Builder\obj\Debug\AR Code Builder.exe
+C:\Users\Kochen Family\source\repos\AR Code Builder\AR Code Builder\obj\Debug\AR Code Builder.xml
+C:\Users\Kochen Family\source\repos\AR Code Builder\AR Code Builder\obj\Debug\AR Code Builder.pdb
+C:\Users\Kochen Family\source\repos\AR Code Builder\AR Code Builder\obj\Debug\AR_Code_Builder.Form2.resources
