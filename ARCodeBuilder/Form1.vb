@@ -1,6 +1,8 @@
 ﻿Public Class Form1
     Dim address As String
     Dim value As String
+    Dim vl As Integer
+    Dim ct As String
 
 
     Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
@@ -24,11 +26,11 @@
             adr = "0" & adr
             GoTo 1
         End If
-        If val.Length < 8 Then
+        If val.Length < vl Then
             val = "0" & val
             GoTo 1
         End If
-        Dim output As String = "0" & adr & " " & val & "
+        Dim output As String = ct & adr & " " & val & "
 "
         Return output
     End Function
@@ -36,10 +38,12 @@
     Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
         'Dim address As String = InputBox("What is the address?")
         'Dim value As String = InputBox("What is the value?")
-        Dim F2 As New Form2
-        Dim result = F2.ShowDialog
         'Dim address As String = F2A.Text
         'Dim value As String = F2V.Text
+        vl = 8
+        ct = "0"
+        Dim F2 As New Form2(vl)
+        Dim result = F2.ShowDialog
         Dim code As String = W32(address, value)
         RichTextBox1.Text = RichTextBox1.Text & code
     End Sub

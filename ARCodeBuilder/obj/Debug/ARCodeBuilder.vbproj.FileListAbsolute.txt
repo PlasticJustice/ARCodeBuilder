@@ -7,3 +7,12 @@ C:\Users\Kochen Family\source\repos\AR Code Builder\AR Code Builder\obj\Debug\AR
 C:\Users\Kochen Family\source\repos\AR Code Builder\AR Code Builder\obj\Debug\ARCodeBuilder.xml
 C:\Users\Kochen Family\source\repos\AR Code Builder\AR Code Builder\obj\Debug\ARCodeBuilder.pdb
 C:\Users\Kochen Family\source\repos\AR Code Builder\AR Code Builder\obj\Debug\ARCodeBuilder.vbprojResolveAssemblyReference.cache
+C:\Users\18kochen\Source\Repos\ARCodeBuilder\ARCodeBuilder\obj\Debug\ARCodeBuilder.xml
+C:\Users\18kochen\Source\Repos\ARCodeBuilder\ARCodeBuilder\obj\Debug\ARCodeBuilder.pdb
+C:\Users\18kochen\Source\Repos\ARCodeBuilder\ARCodeBuilder\obj\Debug\ARCodeBuilder.vbprojResolveAssemblyReference.cache
+C:\Users\18kochen\Source\Repos\ARCodeBuilder\ARCodeBuilder\obj\Debug\ARCodeBuilder.Form1.resources
+C:\Users\18kochen\Source\Repos\ARCodeBuilder\ARCodeBuilder\obj\Debug\ARCodeBuilder.Form2.resources
+C:\Users\18kochen\Source\Repos\ARCodeBuilder\ARCodeBuilder\obj\Debug\ARCodeBuilder.Resources.resources
+C:\Users\18kochen\Source\Repos\ARCodeBuilder\ARCodeBuilder\obj\Debug\ARCodeBuilder.vbproj.GenerateResource.Cache
+C:\Users\18kochen\Source\Repos\ARCodeBuilder\ARCodeBuilder\obj\Debug\ARCodeBuilder.exe
+C:\Users\18kochen\Source\Repos\ARCodeBuilder\ARCodeBuilder\bin\Debug\ARCodeBuilder.exe.config
