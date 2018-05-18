@@ -26,7 +26,7 @@
             adr = "0" & adr
             GoTo 1
         End If
-        If val.Length < vl Then
+        If val.Length < 8 Then
             val = "0" & val
             GoTo 1
         End If
@@ -42,6 +42,14 @@
         'Dim value As String = F2V.Text
         vl = 8
         ct = "0"
+        Dim F2 As New Form2(vl)
+        Dim result = F2.ShowDialog
+        Dim code As String = W32(address, value)
+        RichTextBox1.Text = RichTextBox1.Text & code
+    End Sub
+    Private Sub Button2_Click(sender As Object, e As EventArgs) Handles Button2.Click
+        vl = 4
+        ct = "1"
         Dim F2 As New Form2(vl)
         Dim result = F2.ShowDialog
         Dim code As String = W32(address, value)

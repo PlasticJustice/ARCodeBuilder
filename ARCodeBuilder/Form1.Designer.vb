@@ -28,6 +28,7 @@ Partial Class Form1
         Me.ToolTip1 = New System.Windows.Forms.ToolTip(Me.components)
         Me.F2A = New System.Windows.Forms.Label()
         Me.F2V = New System.Windows.Forms.Label()
+        Me.Button2 = New System.Windows.Forms.Button()
         Me.SuspendLayout()
         '
         'RichTextBox1
@@ -67,11 +68,22 @@ Partial Class Form1
         Me.F2V.TabIndex = 3
         Me.F2V.Text = "Label1"
         '
+        'Button2
+        '
+        Me.Button2.Location = New System.Drawing.Point(76, 41)
+        Me.Button2.Name = "Button2"
+        Me.Button2.Size = New System.Drawing.Size(75, 23)
+        Me.Button2.TabIndex = 4
+        Me.Button2.Text = "Write 16bit"
+        Me.ToolTip1.SetToolTip(Me.Button2, "0XXXXXXX YYYYYYYY" & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & "Writes the value of Y to:" & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & "(XXXXXXX + 'offset')")
+        Me.Button2.UseVisualStyleBackColor = True
+        '
         'Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(800, 450)
+        Me.Controls.Add(Me.Button2)
         Me.Controls.Add(Me.F2V)
         Me.Controls.Add(Me.F2A)
         Me.Controls.Add(Me.Button1)
@@ -88,4 +100,5 @@ Partial Class Form1
     Friend WithEvents ToolTip1 As ToolTip
     Friend WithEvents F2A As Label
     Friend WithEvents F2V As Label
+    Friend WithEvents Button2 As Button
 End Class
