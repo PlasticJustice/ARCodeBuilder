@@ -37,8 +37,8 @@
 
     Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
 
-        Form1.F2A.Text = TextBox1.Text
-        Form1.F2V.Text = TextBox2.Text
+        Form1.F2A.Text = TextBox1.Text.ToUpper
+        Form1.F2V.Text = TextBox2.Text.ToUpper
         Close()
     End Sub
 End Class

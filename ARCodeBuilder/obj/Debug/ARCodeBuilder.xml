@@ -22,5 +22,31 @@ ARCodeBuilder
   resource lookups using this strongly typed resource class.
 </summary>
 </member>
+<member name="P:ARCodeBuilder.My.Resources.Resources.Trainer_Toolkit_Manual">
+<summary>
+  Looks up a localized string similar to %PDF-1.5
+%§ãññ
+2 0 obj
+&lt;&lt;
+/Type /Catalog
+/Version /1#2E5
+/Pages 4 0 R
+/PieceInfo 5 0 R
+/PageLayout /OneColumn
+/Outlines 6 0 R
+&gt;&gt;
+endobj
+14 0 obj
+&lt;&lt;
+/Filter /FlateDecode
+/Length 5349
+&gt;&gt;
+stream
+H‰¼WÛ’Û6}×Wô£”&quot;xß7;¶ãÙJí%Ön\ïG„$f$R!©‘µ_¿Ý
+„4Ôx²µµS©‰‡Ýçœ¾À‡ÍLB	³ïüäÃ¦½]Î¾_.}°\Ï&lt;_ø¾ŸÂrüOÃò&gt;À²éÓÿÿ-üCø
+ÿéÛe&gt;$±/Bß`¹Ÿý:/«N7º]xá¼[¨¹. ¬`Ïù‹^xrÞA]Á¥¤¿”€û
+ºmÉë°Ê[}û¼}ä?OõqWÀƒ†Å¿–&amp;w¥ã®È]ŸE3)»µ,Ð‰×I÷Ç—ýù‹pÕ®Rd%QõFÈí‡²Ê›óœ¶åj&apos;½ˆæÆsÿx^òy/P&quot;Hð¤PA`Ì¬(ŽºzÒM]};Š8ÊÌµsÿë‡Þ-–¿=s6/‹èT ¢,°§È× [rest of string was truncated]&quot;;.
+</summary>
+</member>
 </members>
 </doc>
