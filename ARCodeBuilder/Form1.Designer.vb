@@ -41,6 +41,7 @@ Partial Class Form1
         Me.GroupBox1 = New System.Windows.Forms.GroupBox()
         Me.GroupBox2 = New System.Windows.Forms.GroupBox()
         Me.RichTextBox2 = New System.Windows.Forms.RichTextBox()
+        Me.Button12 = New System.Windows.Forms.Button()
         Me.GroupBox1.SuspendLayout()
         Me.GroupBox2.SuspendLayout()
         Me.SuspendLayout()
@@ -230,11 +231,21 @@ Partial Class Form1
         Me.RichTextBox2.TabIndex = 15
         Me.RichTextBox2.Text = ""
         '
+        'Button12
+        '
+        Me.Button12.Location = New System.Drawing.Point(18, 282)
+        Me.Button12.Name = "Button12"
+        Me.Button12.Size = New System.Drawing.Size(75, 23)
+        Me.Button12.TabIndex = 16
+        Me.Button12.Text = "Button12"
+        Me.Button12.UseVisualStyleBackColor = True
+        '
         'Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(774, 450)
+        Me.Controls.Add(Me.Button12)
         Me.Controls.Add(Me.RichTextBox2)
         Me.Controls.Add(Me.GroupBox2)
         Me.Controls.Add(Me.GroupBox1)
@@ -268,4 +279,5 @@ Partial Class Form1
     Friend WithEvents Button11 As Button
     Friend WithEvents GroupBox2 As GroupBox
     Friend WithEvents RichTextBox2 As RichTextBox
+    Friend WithEvents Button12 As Button
 End Class

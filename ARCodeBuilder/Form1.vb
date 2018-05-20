@@ -143,6 +143,11 @@
         RichTextBox1.Text = RichTextBox1.Text & code
     End Sub
 
+    Private Sub Button12_Click(sender As Object, e As EventArgs) Handles Button12.Click
+        Dim F3 As New Form3
+        Dim result = F3.ShowDialog
+    End Sub
+
     '    Private Sub RichTextBox1_TextChanged(sender As Object, e As EventArgs) Handles RichTextBox1.TextChanged
     '        Dim w As String
     '        Dim w2 As String()
