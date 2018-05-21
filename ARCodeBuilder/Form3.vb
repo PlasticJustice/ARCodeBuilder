@@ -10,11 +10,25 @@
 
 
     Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
-        Dim t As String = RichTextBox1.Text
+        Dim t As String = RichTextBox1.Text.Replace("
+", "")
         Dim t2 = t.Replace(" ", "")
-        For i = 8 To t2.Length Step 8
-            t2 = t2.Insert(i, " ")
-            i = i + 1
+        Dim le As Integer = t2.Length
+        Dim l As Boolean = False
+        Debug.Print(t2.Length)
+        For i = 8 To le + (le / 6) Step 8
+            If l = False Then
+                t2 = t2.Insert(i, " ")
+                i = i + 1
+                'le = le + 1
+                l = True
+            ElseIf l = True Then
+                t2 = t2.Insert(i, "
+")
+                i = i + 2
+                'le = le + 1
+                l = False
+            End If
         Next i
         RichTextBox1.Text = t2
 

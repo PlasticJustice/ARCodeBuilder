@@ -35,3 +35,4 @@ C:\Users\Nick\Source\Repos\ARCodeBuilder\ARCodeBuilder\obj\Debug\ARCodeBuilder.v
 C:\Users\Nick\Source\Repos\ARCodeBuilder\ARCodeBuilder\obj\Debug\ARCodeBuilder.exe
 C:\Users\Nick\Source\Repos\ARCodeBuilder\ARCodeBuilder\obj\Debug\ARCodeBuilder.xml
 C:\Users\Nick\Source\Repos\ARCodeBuilder\ARCodeBuilder\obj\Debug\ARCodeBuilder.pdb
+C:\Users\Kochen Family\source\repos\ARCodeBuilder\ARCodeBuilder\obj\Debug\ARCodeBuilder.Form3.resources
